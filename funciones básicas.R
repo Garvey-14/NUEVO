@@ -8,3 +8,8 @@ garvey<-function(a){
 }
 
 garvey(8)
+
+valores<-sample(1:10,1)
+print(valores)
+
+garvey(valores)
